@@ -1,0 +1,152 @@
+/* IMPOSTAZIONI */
+html {font-size: 62%;}
+body .image{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    width: fit-content;
+}
+header{
+    background-image: url('./asset/img/banner.jpg');
+    line-height: 1.5;
+    padding: 150px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    
+}
+h1{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    text-align: center;
+    color: #5186d6;
+    padding: 15px;
+    font-size: 20px;
+}
+div p {
+    font-family: "Montserrat", serif;
+    text-align: center;
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-size: 1.5rem;
+    margin: 15px;
+    box-shadow: #fffcfc;
+    font-size: 15px;
+}
+article p {
+    color: white;
+    box-shadow: #fae9e9;
+
+}
+button {
+    background-color: #c94f17;
+    color: white;
+    font-weight: bold;
+    padding: 12
+    px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    border-radius: 2px;
+    border: 2px;
+}
+main p{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-size: 1.8rem;
+    margin: 15px;
+    text-align: center;
+}
+article img{
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+    object-position: center;
+    height: auto;
+    background-color: white;
+
+}
+article div{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    text-align: center;
+    background-color: #c94f17;
+    margin: 5px;
+    padding: 15%;
+    color: white;
+    font-size: large;
+}
+section .foto1 {
+    background-color: white;
+    padding: 0px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+section .foto2 {
+    background-color: white;
+    padding: 0px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    object-position: center;
+    text-align: center;
+}
+section .foto3{
+    background-color: white;
+    padding: 0px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    object-position: center;
+    text-align: center;
+}
+
+section h2{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    text-align: center;
+    color: #5186d6;
+    padding: 15px;
+    font-size: 22px;
+}
+section p{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-size: 1.8rem;
+    margin: 15px;
+    text-align: center;
+    padding: 2px;
+    display: block;
+    padding: 1%;
+    border-right: 1%;
+}
+footer {
+    background-color: #25a2c3;
+    color: white;
+    padding: 30px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+footer h1{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+footer p {
+    text-align: center;
+    margin: 20px 0;
+}
