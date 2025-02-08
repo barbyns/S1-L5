@@ -1,14 +1,13 @@
 /* IMPOSTAZIONI */
 html {font-size: 62%;}
-body .image{
+body {
     margin: 0;
-    padding: 0;
+}
+.top{
     background-color: black;
-    text-align: center;
-    align-content: center;
-    justify-content: center;
     display: flex;
-    width: fit-content;
+    justify-content: center;
+    align-items: center;
 }
 header{
     background-image: url('./asset/img/banner.jpg');
